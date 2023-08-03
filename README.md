@@ -2,10 +2,6 @@
 Juan David Torres</a></h1>
 <h3 align="center">A passionate web developer from Colombia &#127470;&#127475</h3>
 
-<p align="left"> <img src="" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="" alt="100rabhcsmc" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
