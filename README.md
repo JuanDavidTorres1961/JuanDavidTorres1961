@@ -31,6 +31,8 @@ Juan David Torres</a></h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCiCzPHRpT-C7_WIDZlZ1gZA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+<!-- 	 <a style="margin-left: 10px;" target="_blank" href="https://web.facebook.com/juandavid.torres.9237244/">
+				<img src="" ></a> -->
       </div>
 
 </p>
